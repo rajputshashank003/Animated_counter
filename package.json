@@ -1,5 +1,5 @@
 {
-  "name": "verify-email",
+  "name": "animated-motion-counter-repo",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -12,6 +12,8 @@
   "dependencies": {
     "@gsap/react": "^2.1.2",
     "@tailwindcss/vite": "^4.1.6",
+    "animated-motion-counter": "^1.0.3",
+    "framer-motion": "^12.23.24",
     "gsap": "^3.13.0",
     "motion": "^12.11.3",
     "react": "^19.1.0",
